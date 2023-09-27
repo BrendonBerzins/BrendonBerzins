@@ -3,11 +3,14 @@
 - 🔭 I’m currently working on React
 - 🌱 I’m currently learning Next
 - 👯 I’m looking to collaborate on open sorce projects
-
-
+<kbd>
+  <img style='border-radius: 30em' height='200vh' src='https://i.gifer.com/origin/87/87015e585336954a2d2e9179bebd8b32_w200.gif'/>
+</kbd>
+<div>
+ 
   <img src="https://github-readme-stats.vercel.app/api?username=brendonberzins&show_icons=true&theme=midnight-purple"/>
   <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=brendonberzins&layout=compact&theme=midnight-purple'/>
-  <img height='100vh' src='https://styles.redditmedia.com/t5_4n5i8g/styles/communityIcon_qbi9cezmnkma1.png'/>
+</div>
   <div>
    <img height='30em' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg'/>
     <img height='30em' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg'/>

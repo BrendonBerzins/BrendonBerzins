@@ -13,11 +13,15 @@
 </div>
   <div>
    <img height='30em' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg'/>
-    <img height='30em' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg'/>
+   <img height='30em' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg'/>
    <img height='30em' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg'/>
+   <img height='30em' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
    <img height='30em' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg'/>
    <img height='30em' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"/>
-     <img height='30em' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg'/>
+   <img height='30em' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+   <img height='30em' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
+   <img height='30em'src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+   <img height='30em' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg'/>
    <img height='30em' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg'/>
    <img height='30em' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg'/>
    <img height='30em' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />

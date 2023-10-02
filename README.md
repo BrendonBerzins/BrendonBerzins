@@ -7,8 +7,6 @@
   <img style='border-radius: 30em' height='200vh' src='https://i.gifer.com/origin/87/87015e585336954a2d2e9179bebd8b32_w200.gif'/>
 </kbd>
 <div>
- 
-  <img src="https://github-readme-stats.vercel.app/api?username=brendonberzins&show_icons=true&theme=midnight-purple"/>
   <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=brendonberzins&layout=compact&theme=midnight-purple'/>
 </div>
   <div>

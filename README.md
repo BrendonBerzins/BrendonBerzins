@@ -1,6 +1,6 @@
 ## Hi! I'm Brendon Berzins Frontend Developer 👋
  
-- 🔭 I’m currently working on React
+- 🔭 I’m currently working whit Nextjs and Typescript
 - 🌱 I’m currently learning Next
 - 👯 I’m looking to collaborate on open sorce projects
 <kbd>

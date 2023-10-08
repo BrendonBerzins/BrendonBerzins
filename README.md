@@ -1,7 +1,7 @@
 ## Hi! I'm Brendon Berzins Frontend Developer 👋
  
 - 🔭 I’m currently working whit Nextjs and Typescript
-- 🌱 I’m currently learning Backend
+- 🌱 I’m currently fixing my erros
 - 👯 I’m looking to collaborate on open sorce projects
 <kbd>
   <img style='border-radius: 30em' height='200vh' src='https://i.gifer.com/origin/87/87015e585336954a2d2e9179bebd8b32_w200.gif'/>

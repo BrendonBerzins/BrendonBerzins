@@ -23,4 +23,6 @@
    <img height='30em' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg'/>
    <img height='30em' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg'/>
    <img height='30em' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg'/>
+   <img height='30em' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg'/>
+   <img height='30em' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg'/>
   </div>

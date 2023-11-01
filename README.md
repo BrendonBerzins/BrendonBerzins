@@ -1,10 +1,10 @@
-## Hi! I'm Brendon Berzins Frontend Developer 👋
+## Hi! I'm Brendon Berzins Fullstack Developer 👋
  
 - 🔭 I’m currently working whit Typescript & React
-- 🌱 I’m currently learning Angular & StyleComponents
+- 🌱 I’m currently learning NodeJs
 - 👯 I’m looking to collaborate on open sorce projects
 <kbd>
-  <img style='border-radius: 30em' height='200vh' src='https://i.gifer.com/origin/87/87015e585336954a2d2e9179bebd8b32_w200.gif'/>
+  <img style='border-radius: 30em' height='200vh' src='https://i.pinimg.com/originals/0b/ec/c9/0becc93fd154ccd01ec2e14587f78262.gif'/>
 </kbd>
 <div>
   <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=brendonberzins&layout=compact&theme=midnight-purple'/>

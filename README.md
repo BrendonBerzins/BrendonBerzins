@@ -7,6 +7,9 @@
   <img style='border-radius: 30em' height='200vh' src='https://i.pinimg.com/originals/0b/ec/c9/0becc93fd154ccd01ec2e14587f78262.gif'/>
 </kbd>
 <div>
+ ## If you are looking for a dedicated Full Stack developer who is passionate about technology, I am available to discuss how I can contribute to your next project.
+</div>
+<div>
   <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=brendonberzins&layout=compact&theme=midnight-purple'/>
 </div>
   <div>
